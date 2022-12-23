@@ -1,5 +1,4 @@
-# CREA UNA TABLA DE PRECIOS DE CRIPTOMONEDAS 
-# USANDO PHP Y MSQL Y LA API DE COINMARKETCAP
+# CREA UNA TABLA DE PRECIOS DE CRIPTOMONEDAS USANDO PHP Y MSQL Y LA API DE COINMARKETCAP
 
 El presente código tiene como finalidad transformar la data que se recolecta desde la API de CoinMarketCap en una tabla en la que se pueda mostrar los datos json que se reciben.
 
