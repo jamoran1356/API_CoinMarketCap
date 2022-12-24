@@ -14,6 +14,8 @@ Con este script ya tienes acceso a la información que entrega la API de Coinmar
 
 En este caso, les voy a mostrar como guardar la información en la BDD y que la puedan recuperar a una tabla con estilos.
 
+## LICENCIA
+Este proyecto se desarrolla bajo la licencia GNU GPLv3. Puedes econtrar información acerca de la licencia aquí: [LICENCIA.txt](licencia.txt)
 
 ## DONACIONES
 Si crees que este código es de utilidad y quieres dar una donación, puedes hacerlo a la siguiente billetera:
