@@ -15,7 +15,7 @@ Con este script ya tienes acceso a la información que entrega la API de Coinmar
 En este caso, les voy a mostrar como guardar la información en la BDD y que la puedan recuperar a una tabla con estilos.
 
 
-## CONTRIBUCIONES
+## DONACIONES
 Si crees que este código es de utilidad y quieres dar una contribución, puedes hacerlo a la siguiente billetera:
 
 Red: TR20 (Tron)
