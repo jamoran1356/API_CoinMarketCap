@@ -16,7 +16,7 @@ En este caso, les voy a mostrar como guardar la información en la BDD y que la 
 
 
 ## DONACIONES
-Si crees que este código es de utilidad y quieres dar una contribución, puedes hacerlo a la siguiente billetera:
+Si crees que este código es de utilidad y quieres dar una donación, puedes hacerlo a la siguiente billetera:
 
 Red: TR20 (Tron)
 Dirección: TAzU3SEgFfUubtqxbH2fYGRW4G7tN3fY5o
