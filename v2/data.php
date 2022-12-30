@@ -12,7 +12,7 @@ $parameters = [
 
 $headers = [
   'Accepts: application/json',
-  'X-CMC_PRO_API_KEY: 07bc611d-5225-483f-90f6-80990c9057da'
+  'X-CMC_PRO_API_KEY: TU CLAVE DE COINMARKETCAP'
 ];
 $qs = http_build_query($parameters); // query string encode the parameters
 $request = "{$url}?{$qs}"; // create the request URL
@@ -38,7 +38,8 @@ $objdata = new criptomoneda();
 $code = $objdata->createCode(6);
 
 $objdata->insControl($code);
-
+// Aqui guardamos 20 registros en la base de datos, pueden guardarse todos los disponibles en coinmarketcap
+// actualmente hay mas de 5k de criptomonedas registradas, tambien se puede cambiar la data que se quiera almacenar    
 for ($i=0; $i<=19; $i++) {
     $rank = $data['data'][$i]["cmc_rank"];
     $nombre = $data['data'][$i]["name"];
